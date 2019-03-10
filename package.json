@@ -1,0 +1,21 @@
+{
+  "name": "test.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnbayronp/test.github.io.git"
+  },
+  "keywords": [],
+  "author": "John Perez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnbayronp/test.github.io/issues"
+  },
+  "homepage": "https://github.com/johnbayronp/test.github.io#readme"
+}
